@@ -1,2 +1,2 @@
 # PGSO-ABSA
-PGSO 
+The code of our proposed PGSO model.
